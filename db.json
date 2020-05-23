@@ -1,0 +1,64 @@
+{
+
+"AB123456": [{
+    "customerid": "AB123456",
+    "title": "Mr",
+    "firstname": "John",
+    "lastname": "Doe",
+    "DOB": "01/01/2001",
+    "emailaddress": "johndoe@email.com",
+    "address": "1 green street",
+    "city": "Belfast",
+    "postcode": "BT1 1AB",
+    "contactnumber": "07589839401" ,
+    "departure": "Belfast",
+    "destination": "London",
+    "airline": "TUI",
+    "departuredate": "00/00/00",
+    "returndate": "00/00/00",
+    "quotation": "£100"
+}
+       ],
+    
+"CD654321": [{
+    "customerid": "CD654321",
+    "title": "Mrs",
+    "firstname": "Jane",
+    "lastname": "Doe",
+    "DOB": "20/20/1995",
+    "emailaddress": "janedoe@email.com",
+    "address": "1 Jane Street",
+    "city": "Belfast",
+    "postcode": "btJ 1ab",
+    "contactnumber": "07732908715" ,
+    "departure": "Belfast",
+    "destination": "London",
+    "airline": "EasyJet",
+    "departuredate": "00/00/00",
+    "returndate": "00/00/00",
+    "quotation": "£300"
+}], 
+    
+"EF789112": [{
+    "customerid": "EF321123", 
+    "title": "Mr",
+    "firstname": "Jack",
+    "lastname": "White",
+    "DOB": "24/04/1998",
+    "emailaddress": "jackwhitye@email.com",
+    "address": "1 Jack Street",
+    "city": "Belfast",
+    "postcode": "BT5 5PR",
+    "contactnumber": "07666897854" ,
+    "departure": "Belfast",
+    "destination": "Gatwick",
+    "airline": "Ryanair",
+    "departuredate": "00/00/00",
+    "returndate": "00/00/00",
+    "quotation": "£250"
+}]
+
+}
+
+
+

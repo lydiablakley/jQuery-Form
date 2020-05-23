@@ -1,0 +1,299 @@
+.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:10px;
+	color:#fff;
+	font-size:12px Arial;
+}
+
+body{
+    text-align: center;
+}
+
+.form {
+    align-content: center;
+}
+.customerform {
+  align-content: center;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+p1 {
+    font-family: sans-serif;
+    font-size: 28px;
+    color: white;
+}
+
+#reference {
+    
+    width: 280px;
+    height: 45px;
+    border: 2px solid #87CEEB;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+}
+
+.submit {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #87CEEB;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+    color: 1FA7FF;
+}
+
+p {
+    font-family: sans-serif
+}
+
+
+input[type=text], select {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+    height: 40px;
+}
+
+.DOB {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+    height: 40px;
+}
+
+
+
+label {
+    padding: 8px 8px;
+    display: inline-block;
+    width: 150px;
+    font-family: sans-serif;
+    text-align: left;
+}
+select {
+  width: 200px;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+    height: 40px;
+    font-family: sans-serif
+}
+
+
+.about {
+    
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;   
+}
+
+
+.contact {
+    border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px; 
+    
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li2 {
+  float: right;
+    padding: 12px 16px;
+}
+
+li1 {
+  float: left;
+     padding: 12px 16px;
+}
+
+li2 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+font-family: sans-serif;
+}
+
+li2 a:hover {
+  background-color: #111;
+}
+
+.cookies {
+    background-color: #f2f2f2;
+    padding: 8px;
+}
+
+.accept {
+     text-align: center;
+    width: 100px;
+    height: 50px;
+    font-size: 12px;
+    font-family: sans-serif;
+    border: none;
+}
+
+#myList li{ display:none;
+}
+
+#loadMore {
+    color:green;
+    cursor:pointer;
+}
+#loadMore:hover {
+    color:black;
+}
+#showLess {
+    color:red;
+    cursor:pointer;
+}
+#showLess:hover {
+    color:black;
+}
+
+.list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.list li {
+	position: relative;
+	margin-bottom: 10px;
+}
+
+#learnmore {
+     text-align: center;
+    width: 100px;
+    height: 50px;
+    font-size: 12px;
+    font-family: sans-serif;
+    border: none;
+}
+h3 {
+    font-family: sans-serif;
+    size: 18px;
+}
+
+p2 {
+    font-family: sans-serif;
+    size: 12px;
+}
+
+.close {
+    float: right;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    background-color: #ccc;
+    border: none;
+    width: 80px;
+    height: 50px;
+}
+
+#firstname_error {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#lastname_error {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#email_error {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#number_error {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#departure_error {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#destination_error {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+#button {
+    
+    position: absolute;
+  right: 150px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    font-size: 12px;
+    font-family: sans-serif;
+    border: none;
+    
+}
+
+
+
+
+
+/* iphone */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+
+/* ipad */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* laptop */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+}
+
+/* apple watch */
+@media
+  (max-device-width: 42mm)
+  and (min-device-width: 38mm) { 
+
+}
